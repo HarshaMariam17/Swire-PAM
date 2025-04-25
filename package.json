@@ -28,7 +28,7 @@
     "keycloak-angular": "^10.0.1",
     "keycloak-js": "^18.0.0",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.43",
+    "moment-timezone": "^0.5.48",
     "ng-apexcharts": "^1.8.0",
     "ngx-google-analytics": "^14.0.1",
     "rxjs": "~7.5.0",
